@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Elene Qaldani👋</h1>
-<h3 align="center">A passionate full-stack developer from Zugdidi, Georgia✨</h3>
+<h1">Hi, I'm Elene Qaldani👋</h1>
+<h3">A passionate full-stack developer from Zugdidi, Georgia✨</h3>
+
 
 - 👨‍💻 All of my projects are available at [https://elene.pages.dev/](https://elene.pages.dev/)
 
