@@ -4,11 +4,11 @@ A passionate full-stack developer from Zugdidi, Georgia✨
 
 <br/>
 
-- 👨‍💻 All of my projects are available at [https://elene.pages.dev/](https://elene.pages.dev/)
+&raquo; 👨‍💻 All of my projects are available at [https://elene.pages.dev/](https://elene.pages.dev/)
 
-- 📫 How to reach me **eleneqaldani1@gmail.com**
+&raquo; 📫 How to reach me **eleneqaldani1@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://www.dropbox.com/scl/fi/yapfe6ivrkoz2irk609cv/Elene_Qaldani_CV.pdf?rlkey=9n9nborkrbl6bptyyyn2pimto&dl=0)
+&raquo; 📄 Know about my experiences [Resume](https://www.dropbox.com/scl/fi/yapfe6ivrkoz2irk609cv/Elene_Qaldani_CV.pdf?rlkey=9n9nborkrbl6bptyyyn2pimto&dl=0)
 
 
 ### Skills:
