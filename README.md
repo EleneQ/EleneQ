@@ -8,7 +8,7 @@ A passionate full-stack developer from Zugdidi, Georgia✨
 
 &raquo; 📫 How to reach me **eleneqaldani1@gmail.com**
 
-&raquo; 📄 Know about my experiences [Resume](https://www.dropbox.com/scl/fi/yapfe6ivrkoz2irk609cv/Elene_Qaldani_CV.pdf?rlkey=9n9nborkrbl6bptyyyn2pimto&dl=0)
+&raquo; 📄 Know about my experiences [Resume](https://www.dropbox.com/scl/fi/e3fcwqhk3x25akomqm7dm/Resume.pdf?rlkey=l1sq3r4sl4kd78c7wuugvo6ji&dl=0)
 
 <br/>
 
