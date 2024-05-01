@@ -1,6 +1,6 @@
 # Hi, I'm Elene Qaldani👋</h1>
 
-A passionate full-stack developer from Zugdidi, Georgia✨
+A passionate full-stack developer from Georgia✨
 
 <br/>
 
