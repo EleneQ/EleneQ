@@ -10,8 +10,6 @@ A passionate full-stack developer from Georgia✨
 
 &raquo; 📄 Know about my experiences [Resume](https://www.dropbox.com/scl/fi/sjum75iaec0ma0zvdswhx/Resume.pdf?rlkey=igt9llrgp1eyf5ij3ufcapbpn&dl=0)
 
-<br/>
-
 ### Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) 
