@@ -4,7 +4,7 @@ A passionate full-stack developer from Georgia✨
 
 <br/>
 
-&raquo; 👩‍💻 All of my projects are available at [https://elene.pages.dev/](https://elene.pages.dev/)
+&raquo; 👩‍💻 My web development projects are available at [https://elene.pages.dev/](https://elene.pages.dev/)
 
 &raquo; 📫 How to reach me **eleneqaldani1@gmail.com**
 
