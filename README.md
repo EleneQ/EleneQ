@@ -1,4 +1,4 @@
-# Hi, I'm Elene Qaldani👋</h1>
+# Hi, I'm Elene Kaldani👋</h1>
 
 A passionate full-stack developer from Georgia✨
 
